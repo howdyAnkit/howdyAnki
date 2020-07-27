@@ -4,7 +4,7 @@
 
 </style>
 
-<h3 style="font-family: 'Bebas Neue';">I speak code. Binge Udemy and Crave for Nachos</h3>
+<h3 style="font-family: 'Bebas Neue';">I speak code 🗣. Binge Udemy 💻 and Crave for Nachos 🎉 </h3>
 
 <!--
 **howdyAnkit/howdyAnkit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
