@@ -1,9 +1,5 @@
 ### Hi I'm Ankit 👋🧔
 
-<style>
-
-</style>
-
 <h3 style="font-family: 'Bebas Neue';">I speak code. Binge Udemy and Crave for Nachos</h3>
 
 <!--
