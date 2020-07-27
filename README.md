@@ -1,7 +1,15 @@
-### Hi there 👋
+### Hi I'm Ankit 👋🧔
+
+<style>
+
+</style>
+
+<h3 style="font-family: 'Bebas Neue';">I speak code. Binge Udemy and Crave for Nachos</h3>
 
 <!--
 **howdyAnkit/howdyAnkit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
@@ -14,3 +22,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![L1cardo's github stats](https://github-readme-stats.vercel.app/api?username=howdyAnkit&show_icons=true)
+
+
+
+[![Twitter Badge](https://img.shields.io/badge/-howdy_ankit-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/howdy_ankit)](https://twitter.com/howdy_ankit) 
+![Linkedin Badge](https://img.shields.io/badge/Ankitpal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ankit-pal-632a72109/)
+[![Gmail Badge](https://img.shields.io/badge/-palankit35@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:palankit35@gmail.com)](mailto:palankit35@gmail.com)
+[![Resume Badge](https://img.shields.io/badge/Resume-blue?style=flat-square&logo=google-drive&logoColor=white&link=https://drive.google.com/file/d/1TviSOpMRnrPVNr-nz6d3UHiL_rEXT708/view?usp=sharing)](https://drive.google.com/file/d/1TviSOpMRnrPVNr-nz6d3UHiL_rEXT708/view?usp=sharing)
+
+
+```javascript
+const howdyAnkit = {
+    pronouns: "He" | "Him",
+    askMeAbout: ["web dev", "tech", "Blockchain"],
+    technologies:{
+        backEnd: ["nodejs", "express", "python", "javaScript","Angular"],
+        fronEnd: ["angular","Bootstrap","Jquery"],
+        database: ["mongo","mySql"],
+        misc: ["vscode", "git-kraken",]
+    },
+}
+```
+
+---
+
+<!-- <button class="button-save large" >Big Fat Button</button><button class="button-save large">Big Fat Button</button> -->
+
