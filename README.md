@@ -1,11 +1,6 @@
 ### Hi I'm Ankit 👋🧔
 
-<<<<<<< HEAD
-
-<h3 style="font-family: 'Bebas Neue';">I speak code 🗣. Binge Udemy 💻 and Crave for Nachos 🎉 </h3>
-=======
 <h3 style="font-family: 'Bebas Neue';">I speak code. Binge Udemy and Crave for Nachos</h3>
->>>>>>> 7b85296d0c2596daf743cbac1a0b37c77b811c93
 
 <!--
 **howdyAnkit/howdyAnkit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
