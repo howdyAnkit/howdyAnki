@@ -33,12 +33,12 @@ const howdyAnkit = {
     pronouns: "He" | "Him",
     askMeAbout: ["web dev", "tech", "Blockchain"],
     technologies:{
-        backEnd: ["nodejs", "express", "python", "javaScript","Angular"],
+        languages: ['Javascript', 'Java', 'Python'],
+        backEnd: ["nodejs", "express", "javaScript"],
         fronEnd: ["angular","Bootstrap","Jquery"],
         database: ["mongo","mySql"],
-        misc: ["vscode", "git-kraken",]
-    },
-}
+        misc: ["vscode", "git-kraken"]
+    }
 ```
 
 ---
