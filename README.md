@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![portfolio](https://user-images.githubusercontent.com/40737659/88860818-3b0e5880-d21a-11ea-84d9-1a46a4a4d5af.gif)
+<img src="https://user-images.githubusercontent.com/40737659/88860818-3b0e5880-d21a-11ea-84d9-1a46a4a4d5af.gif" style="width:1070px;">
 
 
 ![L1cardo's github stats](https://github-readme-stats.vercel.app/api?username=howdyAnkit&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
