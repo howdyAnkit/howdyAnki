@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://user-images.githubusercontent.com/40737659/88860818-3b0e5880-d21a-11ea-84d9-1a46a4a4d5af.gif" style="width:1250px; align: center">
 
 ```javascript
 const howdyAnkit = {
