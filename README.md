@@ -1,4 +1,4 @@
-### Hi I'm Ankit 🧔. I speak code 🗣. Binge Udemy 👨‍💻 and Crave for Nachos 👻 
+### Hi I'm Ankit 👋
 ---
 <!--
 **howdyAnkit/howdyAnkit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,7 +27,7 @@ const howdyAnkit = {
         backEnd: ["nodejs", "express", "javaScript"],
         fronEnd: ["angular","Bootstrap","Jquery"],
         database: ["mongo","mySql"],
-        misc: ["vscode", "git-kraken"]
+        misc: ["vscode", "git-kraken", "Figma", "Selnium-Automation"]
     }
 ```
 
