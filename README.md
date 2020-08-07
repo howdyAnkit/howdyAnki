@@ -41,3 +41,5 @@ const howdyAnkit = {
 
 <!-- <button class="button-save large" >Big Fat Button</button><button class="button-save large">Big Fat Button</button> -->
 
+![howdyAnkit's github stats](https://github-readme-stats.vercel.app/api?username=howdyAnkit&show_icons=true)
+
