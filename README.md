@@ -1,4 +1,4 @@
-### Hi I'm Ankit 👋 | Profle Views :- ![Visitor Count](https://profile-counter.glitch.me/howdyAnkit/count.svg)
+### Hi I'm Ankit 👋 | Profle Views :- ![Visitor Count](https://komarev.com/ghpvc/?username=howdyAnkit)
 ---
 <!--
 **howdyAnkit/howdyAnkit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
