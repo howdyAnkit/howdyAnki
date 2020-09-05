@@ -2,8 +2,8 @@
   ![Visitor Count](https://rebrand.ly/bvpfrng)
   [![Twitter Badge](https://img.shields.io/badge/-howdy_ankit-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/howdy_ankit)](https://twitter.com/howdy_ankit)
   [![Gmail Badge](https://img.shields.io/badge/-palankit35@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:palankit35@gmail.com)](mailto:palankit35@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/Ankitpal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ankit-pal-632a72109/)]
-(https://www.linkedin.com/in/ankit-pal-632a72109/)
+![Linkedin Badge](https://img.shields.io/badge/Ankitpal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ankit-pal-632a72109/)
+
 ---
 <!--
 **howdyAnkit/howdyAnkit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
