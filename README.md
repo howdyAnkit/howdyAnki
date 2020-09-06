@@ -22,25 +22,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-```javascript
-const howdyAnkit = {
-    pronouns: "He" | "Him",
-    askMeAbout: ["web dev", "tech", "Blockchain"],
-    technologies:{
-        languages: ['Javascript', 'Java', 'Python'],
-        backEnd: ["nodejs", "express", "javaScript"],
-        fronEnd: ["angular","Bootstrap","Jquery"],
-        database: ["mongo","mySql"],
-        misc: ["vscode", "git-kraken", "Figma", "Selnium-Automation"]
-    }
-```
-
----
-
-
-
-
-<!-- <button class="button-save large" >Big Fat Button</button><button class="button-save large">Big Fat Button</button> -->
-
 ![howdyAnkit's github stats](https://github-readme-stats.vercel.app/api?username=howdyAnkit&show_icons=true)
 
