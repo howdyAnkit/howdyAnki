@@ -8,7 +8,6 @@
   
   <!-- <img align="right" width="400" height="250" src="https://user-images.githubusercontent.com/40737659/93005061-f725a780-f56a-11ea-9f99-348a0511b7cf.gif"> -->
 
-![GIf](https://user-images.githubusercontent.com/40737659/93005061-f725a780-f56a-11ea-9f99-348a0511b7cf.gif)
 <div style="float:right"> 
 Here are some ideas to get you started:
   
