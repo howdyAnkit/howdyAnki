@@ -11,14 +11,14 @@
 <div style="float:right"> 
 Here are some ideas to get you started:
   
-- 🔭 I’m currently working on :-Backend 
-- 🌱 I’m currently learning :-FullStack and Blockchain 
+- 🔭 I’m currently working on :- Backend 
+- 🌱 I’m currently learning :- FullStack and Blockchain 
 - 👯 I’m looking to collaborate on :-Javascript,Node and Angular
-- 🤔 I’m looking for help with :-Blockchain and Node
-- 💬 Ask me about :-Frontend Backend and Internship Experience
-- 📫 How to reach me: :-palankit35@gmail.com 
-- 😄 Pronouns: :-He/Him
-- ⚡ Fun fact: :-
+- 🤔 I’m looking for help with :- Blockchain and Node
+- 💬 Ask me about :- Frontend Backend and Internship Experience
+- 📫 How to reach me: :- palankit35@gmail.com 
+- 😄 Pronouns: :- He/Him
+- ⚡ Fun fact: :- If it's working don't touch it.
 </div>
 
 
