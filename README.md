@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about :- Frontend Backend and Internship Experience
 - 📫 How to reach me: :- palankit35@gmail.com 
 - 😄 Pronouns: :- He/Him
-- ⚡ Fun fact: :- If it's working don't touch it.
+- ⚡ Fun fact: :- Don't touch it. If it's working.
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=howdyAnkit&show_icons=true"/>
 
