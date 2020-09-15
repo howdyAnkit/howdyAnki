@@ -5,10 +5,9 @@
   [![Twitter Badge](https://img.shields.io/badge/-howdy_ankit-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/howdy_ankit)](https://twitter.com/howdy_ankit)
   [![Gmail Badge](https://img.shields.io/badge/-palankit35@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:palankit35@gmail.com)](mailto:palankit35@gmail.com)
   ![Linkedin Badge](https://img.shields.io/badge/Ankitpal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ankit-pal-632a72109/)
-  
-  <!-- <img align="right" width="400" height="250" src="https://user-images.githubusercontent.com/40737659/93005061-f725a780-f56a-11ea-9f99-348a0511b7cf.gif"> -->
 
-<div style="float:right"> 
+
+
 Here are some ideas to get you started:
   
 - 🔭 I’m currently working on :- Backend 
@@ -19,10 +18,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: :- palankit35@gmail.com 
 - 😄 Pronouns: :- He/Him
 - ⚡ Fun fact: :- If it's working don't touch it.
-</div>
 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=howdyAnkit&show_icons=true"/>
 
----
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=howdyankit&hide=css,html"/>
 
-![howdyAnkit's github stats](https://github-readme-stats.vercel.app/api?username=howdyAnkit&show_icons=true)
 
