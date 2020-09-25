@@ -7,8 +7,6 @@
   ![Linkedin Badge](https://img.shields.io/badge/Ankitpal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ankit-pal-632a72109/)
 
 
-
-Here are some ideas to get you started:
   
 - 🔭 I’m currently working on :- Backend 
 - 🌱 I’m currently learning :- FullStack and Blockchain 
