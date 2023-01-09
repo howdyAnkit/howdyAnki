@@ -13,7 +13,6 @@
 - 👯 I’m looking to collaborate on :-Javascript,Node and Angular
 - 🤔 I’m looking for help with :- Blockchain and Node
 - 💬 Ask me about :- Frontend Backend and Internship Experience
-- 📫 How to reach me: :- palankit35@gmail.com 
 - 😄 Pronouns: :- He/Him
 - ⚡ Fun fact: :- Don't touch it. If it's working.
 
